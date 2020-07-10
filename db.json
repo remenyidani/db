@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "title": "Berepülés a Margitszigetre",
+      "category": "repülés",
+      "location": "Budapest HHH-hegy",
+      "status": "0",
+      "description": "Óbudáról elrepülni a Margitszigetre",
+      "id": 1
+    },
+    {
+      "title": "Csigalépcső",
+      "category": "fotózás",
+      "location": "Hungária körút híd alatt",
+      "status": "0",
+      "description": "Vonat melletti csigalépcsők fotózása",
+      "id": 2
+    },
+    {
+      "title": "Dual Photography",
+      "category": "fotózás",
+      "location": "bárhol",
+      "status": "0",
+      "description": "Fényprojektorral dual ph. elv technikával utólagos megvilágítás",
+      "id": 3
+    },
+    {
+      "title": "Ölüdenizi naplemente",
+      "category": "repülés",
+      "location": "Ölüdeniz, Törökország",
+      "status": "0",
+      "description": "Hát mit mondjak még?!",
+      "id": 4
+    }
+  ],
+  "comments": []
+}
